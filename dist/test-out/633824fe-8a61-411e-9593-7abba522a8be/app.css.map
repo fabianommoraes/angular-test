@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../design-system/src/styles.scss", "src/app/app.scss"],
+  "sourcesContent": ["$ds-primary: #ff6200;\n$ds-dark: #212121;\n$ds-light: #f7f6f4;\n$ds-gray: #ececec;\n$ds-border: #e0e0e0;\n$ds-white: #ffffff;\n\n$ds-spacing-xs: 4px;\n$ds-spacing-sm: 8px;\n$ds-spacing-md: 12px;\n$ds-spacing-lg: 24px;\n$ds-spacing-xl: 32px;\n\n$ds-font-size-xs: 12px;\n$ds-font-size-sm: 14px;\n$ds-font-size-md: 16px;\n$ds-font-size-lg: 24px;\n$ds-font-size-xl: 32px;\n$ds-font-weight-normal: 400;\n$ds-font-weight-bold: 700;\n\n$ds-success: #2eaf62;\n$ds-success-bg: #e7fbee;\n\n$ds-error: #e32700;\n$ds-error-bg: #fde7e2;\n\n$ds-warning: #ffa900;\n$ds-warning-bg: #fff8e1;\n\n$ds-font-family: \"Inter\", Arial, sans-serif;\n\n* {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\nbody {\n  font-family: $ds-font-family;\n  background: $ds-light;\n  color: $ds-dark;\n  margin: 0;\n  padding: 0;\n}\n", "@import \"../../../design-system/src/styles.scss\";\n\n.app-layout {\n  min-height: 100vh;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  background: $ds-light;\n}\n"],
+  "mappings": ";AAgCA;AACE,cAAA;AACA,WAAA;AACA,UAAA;;AAGF;AACE;IATe,OAAA;IAAA,KAAA;IAAA;AAUf,cAtCS;AAuCT,SAxCQ;AAyCR,UAAA;AACA,WAAA;;ACzCF,CAAA;AACE,cAAA;AACA,WAAA;AACA,kBAAA;AACA,mBAAA;AACA,cDLS;;",
+  "names": []
+}

@@ -1,0 +1,19 @@
+/* src/styles.scss */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family:
+    "Inter",
+    Arial,
+    sans-serif;
+  background: #f7f6f4;
+  color: #212121;
+  margin: 0;
+  padding: 0;
+}
+
+/* angular:styles/global:styles */
+/*# sourceMappingURL=styles.css.map */
